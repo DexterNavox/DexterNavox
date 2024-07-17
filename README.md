@@ -2,7 +2,7 @@
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-de-lima-060173a9/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dexternavox&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DexterNavox&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dexternavox)](https://github.com/anuraghazra/github-readme-stats)
 
